@@ -1,59 +1,58 @@
-# 👋 Hi, I'm Vaibhav Srivastava  
+<div align="center">
+  
+# 👋 Hey, I'm **Vaibhav Srivastava**
 
-💻 Programmer • Learner • Problem Solver  
-✨ *Programming challenges keep me humble and always learning.*
+### 💻 CS Student | Python & Java | Building Skills One Bug at a Time
 
----
+<img src="https://media.tenor.com/2uyENRfilTEAAAAC/coding.gif" width="260"/>
 
-## 🌟 About Me
-
-- 🔹 Passionate about writing clean and functional code  
-- 🔹 Learning through building and breaking things  
-- 🔹 Interested in software development and improving algorithmic thinking  
-- 🔹 Constantly exploring new concepts and improving step-by-step  
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### 🧠 About Me
 
-### Languages & Tools:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+- 🏗 Learning DSA + Full-Stack development  
+- 🧩 Programming keeps me grounded — always something new to solve  
+- 🚀 Exploring Machine Learning, Backend Systems, and Cloud
 
 ---
 
-## 🚀 Currently Working On
+### 🔗 Connect with Me
 
-- 🔭 Strengthening DSA and improving problem-solving skills  
-- 📚 Learning backend concepts and real-world development workflows  
-- 🧠 Practicing regularly on LeetCode  
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavsrv&show_icons=true&theme=tokyonight" height="150" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsrv&layout=compact&theme=tokyonight" height="150" />
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srvaibhav) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaisrv)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavsrv)
 
 ---
 
-## 🔥 LeetCode Stats
+### ⚙️ Languages & Tools
 
-![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=vaibhavsrv&theme=dark)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srvaibhav)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaisrv)
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavsrv&color=blue)
+
+</div>
 
 ---
 
-### ✨ “Every line of code teaches something — even if it’s what not to do.”
+### 🧩 Fun Fact
+
+> “Programming doesn’t get easier — **you just get smarter.**”
 
