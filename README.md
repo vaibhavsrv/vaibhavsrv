@@ -1,39 +1,60 @@
-<!-- Header GIF -->
 <div align="center">
-  <img src="https://media.tenor.com/ozDq07f_rY4AAAAC/cat-fast.gif" width="250" />
+  
+# 👋 Hey, I'm **Vaibhav Srivastava**
+
+### 💻 CS Student | Python & Java | Trying to get rich writing code 💸🐱
+
+<img src="https://i.pinimg.com/originals/45/6f/32/456f32a012f46a2a11e241c8ea87cee8.gif" width="300"/>
+
 </div>
-
-<!-- Typing Title -->
-<h1 align="center">⚔️ Hey, I'm Vaibhav Srivastava ⚔️</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&duration=2800&pause=10&color=F7F7F7&center=true&vCenter=true&width=720&lines=Leveling+up+in+DSA+%E2%9A%94%EF%B8%8F;Learning+React+while+my+brain+lags+%F0%9F%A7%B8;Debugging+is+just+pain+with+extra+steps+%F0%9F%98%93;Programming+doesn't+make+me+happy%2C+but+I+keep+coding+%F0%9F%A4%94;One+day+this+code+will+make+money+%F0%9F%92%B8">
-</p>
 
 ---
 
 ### 🧠 About Me
 
-- 🧠 Trying to be better than yesterday  
-- 🧩 Breaking code, fixing code, repeating cycle  
-- 🚀 Learning React, JS & solid backend skills  
-- 💀 Sleep, nope. Debugging? Yes.
+- 🧩 Programming keeps me humble and curious  
+- 🚀 Working on DSA + Full-Stack Development  
+- ☕ Code, Debug, Repeat  
+- 🌱 Learning React, Backend Systems, and Databases  
 
 ---
 
-### 🛠️ Tech I Fight With
+### 🔗 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srvaibhav) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaisrv)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavsrv)
+
+---
+
+### ⚙️ Languages & Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+</p>
+
+---
 
 <div align="center">
 
-| Languages | Frameworks | Tools |
-|----------|------------|-------|
-| 🐍 Python | ⚛️ ReactJS | 🐙 Git |
-| ☕ Java | 🌐 Node.js (learning) | 🧠 Linux |
-| 💻 C++ | 🧩 Express (soon) | 🧪 VS Code |
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavsrv&color=blue&style=flat)
 
 </div>
 
 ---
 
-### 🎮 XP Stats
+### 🧩 Fun Fact
+
+> “One day my code will make money — right now it only makes errors 😭😂”  
 
