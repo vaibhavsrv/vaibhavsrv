@@ -1,22 +1,23 @@
 <!-- Header GIF -->
 <div align="center">
-  <img src="https://media.tenor.com/vE6kzL8Fp28AAAAi/cool-cat-computer.gif" width="200" />
+  <img src="https://media.tenor.com/ozDq07f_rY4AAAAC/cat-fast.gif" width="250" />
 </div>
 
-<!-- Typing Effect -->
+<!-- Typing Title -->
 <h1 align="center">⚔️ Hey, I'm Vaibhav Srivastava ⚔️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=22&duration=3000&pause=20&color=F7F7F7&center=true&vCenter=true&width=700&lines=Programmer+Level+2...;Learning+React+and+Bug+Fixing+My+Own+Code;Debugging+is+90%25+of+my+life;Programming+makes+me+feel+low+💀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&duration=2800&pause=10&color=F7F7F7&center=true&vCenter=true&width=720&lines=Leveling+up+in+DSA+%E2%9A%94%EF%B8%8F;Learning+React+while+my+brain+lags+%F0%9F%A7%B8;Debugging+is+just+pain+with+extra+steps+%F0%9F%98%93;Programming+doesn't+make+me+happy%2C+but+I+keep+coding+%F0%9F%A4%94;One+day+this+code+will+make+money+%F0%9F%92%B8">
 </p>
 
 ---
 
 ### 🧠 About Me
 
-🔹 Still figuring out life and syntax errors  
-🔹 Minimal sleep, maximum compiling  
-🔹 Building skills in **React, JS, DSA & Real-world projects**
+- 🧠 Trying to be better than yesterday  
+- 🧩 Breaking code, fixing code, repeating cycle  
+- 🚀 Learning React, JS & solid backend skills  
+- 💀 Sleep, nope. Debugging? Yes.
 
 ---
 
@@ -26,11 +27,11 @@
 
 | Languages | Frameworks | Tools |
 |----------|------------|-------|
-| 🐍 Python | ⚛️ ReactJS | 🐙 GitHub |
-| 💻 C++ | 🚀 Next.js *(soon)* | 🛠️ VS Code |
-| ☕ Java (basic) | 🌐 Node.js (learning) | 🎨 Figma |
+| 🐍 Python | ⚛️ ReactJS | 🐙 Git |
+| ☕ Java | 🌐 Node.js (learning) | 🧠 Linux |
+| 💻 C++ | 🧩 Express (soon) | 🧪 VS Code |
 
-</div>  
+</div>
 
 ---
 
