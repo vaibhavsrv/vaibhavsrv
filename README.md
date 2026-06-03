@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vaibhavsrv/vaibhavsrv/main/cat.jpeg" alt="just vibing" width="600" />
+  <img width="800" height="340" alt="cat" src="https://github.com/user-attachments/assets/4f6e7755-4f66-4f4d-9116-a0815f6c282a" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>a good curious techy who loves doing nothing &nbsp;:3</h3>
-  <p>backend &nbsp;//&nbsp; system design &nbsp;//&nbsp; dsa</p>
+  <h3>A curious techie professionally procrastinating. &nbsp;:3</h3>
+  <p>backend :) &nbsp;//&nbsp; system design :) &nbsp;//&nbsp; DSA :(</p>
 </div>
 
 <br/>
@@ -23,45 +24,43 @@
 
 ---
 
-## pinned
+## Pinned
 
 <table>
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/vaibhavsrv/EON">⚡ EON</a></h3>
-      <p>A high-performance backend system built for scale — designed around clean architecture and efficient data flow.</p>
-      <img src="https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/vaibhavsrv/EON"><b>EON</b></a>
+      <br/>A high-performance backend system built for scale — designed around clean architecture and efficient data flow.
+      <br/><sub>🔵 Python</sub>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/vaibhavsrv/zenvy">🌿 zenvy</a></h3>
-      <p>A minimal, focused productivity tool — strip out the noise and get things done without the clutter.</p>
-      <img src="https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/vaibhavsrv/flashbooking">📅 flashbooking</a></h3>
-      <p>A fast and lightweight booking engine — handles scheduling, availability, and reservations with minimal overhead.</p>
-      <img src="https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/vaibhavsrv/devfolio">🗂️ devfolio</a></h3>
-      <p>A developer portfolio template — clean, fast, and built to show off what actually matters.</p>
-      <img src="https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/vaibhavsrv/zenvy"><b>zenvy</b></a>
+      <br/>A minimal, focused productivity tool — strip out the noise and get things done without the clutter.
+      <br/><sub>🟡 JavaScript</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/vaibhavsrv/kyc-project">🔐 kyc-project</a></h3>
-      <p>A KYC verification service — streamlines identity checks with a structured backend pipeline.</p>
-      <img src="https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/vaibhavsrv/flashbooking"><b>flashbooking</b></a>
+      <br/>A fast and lightweight booking engine — handles scheduling, availability, and reservations with minimal overhead.
+      <br/><sub>🟡 JavaScript</sub>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vaibhavsrv/devfolio"><b>devfolio</b></a>
+      <br/>A developer portfolio template — clean, fast, and built to show off what actually matters.
+      <br/><sub>🔷 TypeScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vaibhavsrv/kyc-project"><b>kyc-project</b></a>
+      <br/>A KYC verification service — streamlines identity checks with a structured backend pipeline.
+      <br/><sub>🟡 JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vaibhavsrv/proctguard"><b>proctguard</b></a>
+      <br/>A proctoring and guard system — monitors and enforces integrity in controlled environments.
+      <br/><sub>🟣 C#</sub>
+    </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-  <sub>doing nothing, productively.</sub>
-</div>
