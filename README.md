@@ -1,25 +1,67 @@
-# 💫 About Me:
-const Vaibhav: Developer = {<br>  name        : "Vaibha Srivastava",<br>  location    : "India ",<br>  role        : "Backend Engineer & ML Engineer",<br><br>  currentFocus: [<br>    "RAG Pipelines & Autonomous AI Agents",<br>    "LLM-powered backend systems",<br>    "Backend development with Spring Boot",<br>    "Backend latency optimization & scalability",<br>    "Deep Learning — GANs, Transformers, LLMs & AI Agents",<br>  ],<br><br>  techStack: {<br>    languages : [ "Python", "TypeScript", "JavaScript"],<br>    backend   : ["FastAPI", "Node.js"],<br>    databases : ["PostgreSQL", "MongoDB", "MySQL"],<br>    frontend  : ["React", "Next.js",  "Bootstrap", "Figma"],<br>    aiml      : ["TensorFlow", "PyTorch", "scikit-learn", "LangChain"],<br>    devops    : ["Docker", "GCP", "Linux", "Git", "VS Code"],<br>  },<br><br>  currentlyLearning : ["LangGraph", "Vector Databases", "Microservices", "System Design"],<br>  openTo            : ["AI/ML collaborations", "Open Source", "Full Stack projects"],<br>};
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vaibhavsrv/vaibhavsrv/main/cat.jpeg" alt="just vibing" width="600" />
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srvvaibhav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaisrv) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@srvvaibhav8) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/srvvaibhav) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/vaibhav-srivastava) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vaibhav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srvvaibhav8@gmail.com) 
+<div align="center">
+  <h3>a good curious techy who loves doing nothing &nbsp;:3</h3>
+  <p>backend &nbsp;//&nbsp; system design &nbsp;//&nbsp; dsa</p>
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vaibhavsrv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vaibhavsrv&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vaibhavsrv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vaibhavsrv&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/github-vaibhavsrv-181717?style=flat-square&logo=github)](https://github.com/vaibhavsrv)
+[![X](https://img.shields.io/badge/x-vaiiibhaaavvv-000000?style=flat-square&logo=x)](https://x.com/vaiiibhaaavvv)
+[![Instagram](https://img.shields.io/badge/instagram-srvvaibhav-E4405F?style=flat-square&logo=instagram)](https://instagram.com/srvvaibhav)
+[![Medium](https://img.shields.io/badge/medium-Srvvaibhav-12100E?style=flat-square&logo=medium)](https://medium.com/@Srvvaibhav)
+[![Email](https://img.shields.io/badge/email-srvvaibhav8@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:srvvaibhav8@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=vaibhavsrv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vaibhavsrv) 
+## pinned
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vaibhavsrv/EON">⚡ EON</a></h3>
+      <p>A high-performance backend system built for scale — designed around clean architecture and efficient data flow.</p>
+      <img src="https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/vaibhavsrv/zenvy">🌿 zenvy</a></h3>
+      <p>A minimal, focused productivity tool — strip out the noise and get things done without the clutter.</p>
+      <img src="https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vaibhavsrv/flashbooking">📅 flashbooking</a></h3>
+      <p>A fast and lightweight booking engine — handles scheduling, availability, and reservations with minimal overhead.</p>
+      <img src="https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/vaibhavsrv/devfolio">🗂️ devfolio</a></h3>
+      <p>A developer portfolio template — clean, fast, and built to show off what actually matters.</p>
+      <img src="https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vaibhavsrv/kyc-project">🔐 kyc-project</a></h3>
+      <p>A KYC verification service — streamlines identity checks with a structured backend pipeline.</p>
+      <img src="https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <sub>doing nothing, productively.</sub>
+</div>
